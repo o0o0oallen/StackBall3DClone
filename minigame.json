@@ -1,6 +1,6 @@
 {
   "platform": "minigame",
-  "sdk": "index_files/minigame-sdk.js",
+  "sdk": "minigame-sdk.js",
   "instance": "FBInstant",
   "gameName": "stack-ball-laya",
   "features": {
